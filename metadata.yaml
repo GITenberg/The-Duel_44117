@@ -1,0 +1,38 @@
+_repo: The-Duel_44117
+_version: 0.1.0
+alternative_title: Poedinok. English
+covers:
+- cover_type: archival
+  image_path: 44117-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kuprin, A. I. (Aleksandr Ivanovich)
+    aliases:
+    - Koeprin, Alexander I.
+    - Kuprin, Aleksandr Ivanovich
+    - Куприн, Александр Иванович
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '1552'
+    url: http://www.gutenberg.org/2009/agents/1552
+    wikipedia: http://en.wikipedia.org/wiki/Aleksandr_Kuprin
+description: 'Her mouth was almost pressed against his, and her words were like quick,
+  hurried kisses: "You must absolutely go through with the duel tomorrow." An absorbing
+  saga about the brutalities of military life upon its own soldiers. Stranded at a
+  distant outpost, young Romashov finds himself obliged to fight a duel--over something
+  he realizes is meaningless. As the novel hurtles toward a startling conclusion,
+  it reveals itself to be a luminous depiction of the end of an era.'
+gutenberg_issued: '2013-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Fiction'
+- !lcsh 'Dueling -- Fiction'
+- !lcc 'PG'
+title: The Duel
+url: http://www.gutenberg.org/ebooks/44117
